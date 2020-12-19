@@ -1,9 +1,3 @@
-//
-//  roster.h
-//  C867 JYM1 - ClassRoster
-//
-//  Created by Aaron Bahr on 12/17/20.
-//
 
 #ifndef roster_h
 #define roster_h
